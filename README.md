@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋, I'm Manish Kumar Singh<br>     A passionated coder from India</h2>
+<br clear="both">
+
+<h2 align="left">Hi 👋, I'm Manish<br>     A passionated coder from India</h2>
 
 ###
 
@@ -55,16 +57,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://pin.it/6G6LpWftt"  />
-</div>
-
-###
-
-
-
-
-
-[![snake gif](https://github.com/Manishkumarsingh41/Manishkumarsingh41/blob/output/github-contribution-grid-snake.svg)
-](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
