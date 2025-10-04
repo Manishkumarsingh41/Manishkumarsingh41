@@ -58,21 +58,21 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 
 ---
 <div align="center">
-  <h2>LeetCode Progress</h2>
+  <h2>LeetCode Milestones</h2>
 
-  <!-- 50-day and 100-day achievement images -->
+  <!-- 50-day and 100-day achievement GIFs -->
   <p>
     <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="[https://assets.leetcode.com/users/images/71c62ed7-80f2-4c84-a46e-07635932c4e5_1740028280.2879555.gif](https://github.com/Manishkumarsingh41/Extra/blob/main/50%20days.gif)" 
+      <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/50%20days.gif" 
            alt="50 Day Streak" height="120" style="margin:6px;" />
     </a>
     <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="https://github.com/Manishkumarsingh41/extra/100%20days.gif" 
+      <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/100%20days.gif" 
            alt="100 Day Streak" height="120" style="margin:6px;" />
     </a>
   </p>
 
-  <p><small>Working on daily problems — 50 days & 100 days milestones 🎯</small></p>
+  <p><small>Celebrating 50-day & 100-day LeetCode milestones 🎯</small></p>
 </div>
 
 
