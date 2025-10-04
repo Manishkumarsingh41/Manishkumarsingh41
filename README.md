@@ -57,27 +57,36 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 - 🔥 **More on my repositories...**
 
 ---
-<div align="center">
-  <h2>LeetCode Milestones</h2>
+<!-- Full Background Hacker Theme -->
+<div style="position: relative; width: 100%; height: auto; overflow: hidden; text-align: center;">
 
-  <!-- 50-day, 100-day and jellyfish GIFs -->
-  <p>
-    <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/50%20days.gif" 
-           alt="50 Day Streak" height="120" style="margin:6px;" />
-    </a>
-    <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/100%20days.gif" 
-           alt="100 Day Streak" height="120" style="margin:6px;" />
-    </a>
-    <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/jellyfish-unscreen.gif" 
-           alt="Jellyfish GIF" height="120" style="margin:6px;" />
-    </a>
-  </p>
+  <!-- Background GIF -->
+  <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/hacker%20theam.gif" 
+       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.2; z-index: -1;" 
+       alt="Hacker Background"/>
 
+  <!-- Foreground Content -->
+  <div style="position: relative; z-index: 1;">
+
+    <h2>LeetCode Milestones</h2>
+
+    <p>
+      <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/50%20days.gif" 
+             alt="50 Day Streak" height="120" style="margin:6px;" />
+      </a>
+      <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/100%20days.gif" 
+             alt="100 Day Streak" height="120" style="margin:6px;" />
+      </a>
+      <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/jellyfish-unscreen.gif" 
+             alt="Jellyfish GIF" height="120" style="margin:6px;" />
+      </a>
+    </p>
+
+  </div>
 </div>
-
 
 
 ## 📊 **GitHub Stats**
