@@ -47,6 +47,12 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 
+<!-- Big Jellyfish GIF -->
+<div align="center">
+  <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/jellyfish-unscreen.gif" 
+       alt="Jellyfish GIF" width="400" style="margin-top: 20px;" />
+</div>
+
 ---
 
 ## 📌 **Highlighted Projects**
@@ -70,11 +76,6 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
     <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
       <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/100%20days.gif" 
            alt="100 Day Streak" height="120" style="margin:6px;" />
-    </a>
-    <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/jellyfish-unscreen.gif" 
-           alt="Jellyfish GIF" height="120" style="margin:6px;" />
-    </a>
   </p>
 
 </div>
@@ -94,14 +95,6 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhmanish5323@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-singh-5a8162214/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/iamanishsinghrajput_?igsh=MWgxb2x5a2kxdjVmMw==)
-
----
-
-## 🐍 **GitHub Contribution Snake**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Manishkumarsingh41/Manishkumarsingh41/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
