@@ -18,12 +18,11 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 ## 🚀 **About Me**
 
 💻 **Python & AI Developer**: 
-- Experienced in **Machine Learning**, **Computer Vision**, and **NLP**.
+- Experienced in **Machine Learning**, **Computer Vision**, and **NLP**,**predictive analytics**, **EDA**, **data visualization**, **and MLOps**
 - Passionate about **Deep Learning**, **Image Processing**, and **AI Safety**.
-
-🌐 **Full Stack Developer**:
-- Proficient in **HTML**, **CSS**, **JavaScript**, **Flask**, and **React.js**.
-- Skilled in **Backend Development** and **API Integration**.
+- Skilled in **Python, SQL, TensorFlow, Scikit-learn**.   
+- Deploys models on **Google Cloud**.  
+- Turns complex datasets into **actionable business insights**.
 
 ⚡ **Automation & Tools**:
 - Creating intelligent bots & AI-powered solutions.
