@@ -68,8 +68,8 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
            alt="50 Day Streak" height="120" style="margin:6px;" />
     </a>
     <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="[https://assets.leetcode.com/static_assets/marketing/2024-100.gif](https://media.licdn.com/dms/image/v2/D5612AQG8r46_A2R9PA/article-inline_image-shrink_1000_1488/B56ZZZUqXtGUAc-/0/1745255324592?e=1762387200&v=beta&t=5vIGRC7VmAY4amMdSIfLJC62SwM3M8en7qNXnBlApSg)" 
-           alt="100 Day Streak" height="120" style="margin:6px;" />
+      <img src="[https://assets.leetcode.com/users/images/71c62ed7-80f2-4c84-a46e-07635932c4e5_1740028280.2879555.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Flevelup.gitconnected.com%2Fhow-100-days-of-leetcode-transformed-my-coding-journey-e0cfacb9557a&psig=AOvVaw1P5JTkGLdW2Kq8O2pf9KE3&ust=1759660658723000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDN3fesipADFQAAAAAdAAAAABAU)" 
+           alt="50 Day Streak" height="120" style="margin:6px;" />
     </a>
   </p>
 
