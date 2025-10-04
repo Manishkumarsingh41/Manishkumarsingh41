@@ -72,7 +72,6 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
     </a>
   </p>
 
-  <p><small>Celebrating 50-day & 100-day LeetCode milestones 🎯</small></p>
 </div>
 
 
