@@ -57,23 +57,24 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 - 🔥 **More on my repositories...**
 
 ---
-
 <div align="center">
   <h2>LeetCode Progress</h2>
 
   <!-- 50-day and 100-day achievement images -->
   <p>
     <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="https://assets.leetcode.com/users/images/71c62ed7-80f2-4c84-a46e-07635932c4e5_1740028280.2879555.gif" 
+      <img src="[https://assets.leetcode.com/users/images/71c62ed7-80f2-4c84-a46e-07635932c4e5_1740028280.2879555.gif](https://github.com/Manishkumarsingh41/Extra/blob/main/50%20days.gif)" 
            alt="50 Day Streak" height="120" style="margin:6px;" />
     </a>
     <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="[[https://assets.leetcode.com/users/images/71c62ed7-80f2-4c84-a46e-07635932c4e5_1740028280.2879555.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Flevelup.gitconnected.com%2Fhow-100-days-of-leetcode-transformed-my-coding-journey-e0cfacb9557a&psig=AOvVaw1P5JTkGLdW2Kq8O2pf9KE3&ust=1759660658723000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDN3fesipADFQAAAAAdAAAAABAU)](https://assets.leetcode.com/static_assets/others/25100.gif)" 
+      <img src="https://github.com/Manishkumarsingh41/extra/100%20days.gif" 
            alt="100 Day Streak" height="120" style="margin:6px;" />
     </a>
   </p>
 
+  <p><small>Working on daily problems — 50 days & 100 days milestones 🎯</small></p>
 </div>
+
 
 
 ## 📊 **GitHub Stats**
