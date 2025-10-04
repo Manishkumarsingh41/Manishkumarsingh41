@@ -118,7 +118,7 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhmanish5323@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-singh-5a8162214/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/iamanishsinghrajput_?igsh=MWgxb2x5a2kxdjVmMw==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/iammanishsinghrajput07?igsh=MWgxb2x5a2kxdjVmMw==)
 
 ---
 
