@@ -58,6 +58,15 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 
 ---
 
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  </a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+
+  
+</p>
 ## 📊 **GitHub Stats**
 
 <div align="center">
