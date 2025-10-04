@@ -71,7 +71,7 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
            alt="100 Day Streak" height="120" style="margin:6px;" />
     </a>
     <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/jellyfish.gif" 
+      <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/jellyfish-unscreen.gif" 
            alt="Jellyfish GIF" height="120" style="margin:6px;" />
     </a>
   </p>
