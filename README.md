@@ -76,10 +76,14 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 ---
 
 ## 📌 **Highlighted Projects**
-- 🚀 **Image Caption AI Tool** – Generates captions & hashtags for images.
-- 🚂 **Train Safety AI Agent** – Automates train-related safety tasks.
-- 📊 **Data Visualization Dashboard** – Interactive charts & analytics.
-- 🎮 **AI Chatbot** – Conversational AI using NLP & Flask.
+- 🚀 **Real-Time Financial Fraud Detection Model** – High impact in banking and financial security.  
+- 📊 **UPI Transaction Analysis Dashboard** – Important for analyzing digital payment trends in India.  
+- 📈 **StockLensAi** – Curated insights into top international stocks with analysis & visualization tools.  
+- 🤖 **BrainWave RAG Assistant** – AI assistant for retrieval-augmented generation tasks.  
+- 🖼️ **AI Caption and Hashtag Generator** – Generates captions & hashtags for social media content.  
+- 👁️ **LuminaPath-AI Retinal Disease Detection** – Health-focused AI for retinal disease diagnosis.  
+- 🍫 **Chocolate Sales Data Analysis** – Business intelligence & sales insights.  
+- 🎧 **Audiobook** – Audio-based project for content accessibility.
 - 🔥 **More on my repositories...**
 
 ---
