@@ -60,7 +60,7 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 <div align="center">
   <h2>LeetCode Milestones</h2>
 
-  <!-- 50-day and 100-day achievement GIFs -->
+  <!-- 50-day, 100-day and jellyfish GIFs -->
   <p>
     <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
       <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/50%20days.gif" 
@@ -69,6 +69,10 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
     <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
       <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/100%20days.gif" 
            alt="100 Day Streak" height="120" style="margin:6px;" />
+    </a>
+    <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
+      <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/jellyfish.gif" 
+           alt="Jellyfish GIF" height="120" style="margin:6px;" />
     </a>
   </p>
 
