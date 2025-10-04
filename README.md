@@ -125,6 +125,7 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 
 
 ---
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Manishkumarsingh41.Manishkumarsingh41)
 
 🌟 **Thanks for visiting! Let's build something awesome together! 🚀😊**
 
