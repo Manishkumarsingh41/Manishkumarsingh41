@@ -73,8 +73,6 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
            alt="100 Day Streak" height="120" style="margin:6px;" />
     </a>
   </p>
-
-  <p><small>Working on daily problems — 50 days & 100 days milestones 🎯</small></p>
 </div>
 
 ## 📊 **GitHub Stats**
