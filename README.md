@@ -61,13 +61,6 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 <div align="center">
   <h2>LeetCode Progress</h2>
 
-  <!-- Main LeetCode profile -->
-  <p>
-    <a href="https://leetcode.com/manishkumarsingh41/" target="_blank" rel="noopener noreferrer">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"
-           alt="LeetCode Profile" height="150" width="150" style="margin:8px;" />
-    </a>
-  </p>
 
   <!-- 50-day and 100-day achievement images -->
   <p>
