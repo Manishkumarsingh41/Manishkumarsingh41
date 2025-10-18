@@ -68,7 +68,7 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 
 <!-- Big Jellyfish GIF -->
 <div align="center">
-  <img src="(https://lottiefiles.com/free-animation/loading-animation-blue-VNMY2Tu4UQ)" 
+  <img src="https://lottiefiles.com/free-animation/loading-animation-blue-VNMY2Tu4UQ" 
        alt="Jellyfish GIF" width="400" style="margin-top: 20px;" />
 </div>
 
