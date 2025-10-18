@@ -68,7 +68,7 @@ I am a passionate **Programmer & AI Enthusiast** from **India**, specializing in
 
 <!-- Big Jellyfish GIF -->
 <div align="center">
-  <img src="https://github.com/Manishkumarsingh41/Extra/blob/main/jellyfish.gif"
+  <img src="https://github.com/Manishkumarsingh41/Extra/blob/main/jellyfish-unscreen.gif"
        alt="Jellyfish GIF" width="400" style="margin-top: 20px;" />
 </div>
 
