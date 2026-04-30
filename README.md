@@ -91,11 +91,11 @@ AI-based stock analysis platform with sentiment analysis + time-series forecasti
 </p>
 
 
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Manishkumarsingh41&show_icons=true&theme=default)  
-![Streak](https://streak-stats.demolab.com?user=Manishkumarsingh41)  
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Manishkumarsingh41&show_icons=true)
+![Streak](https://streak-stats.demolab.com?user=Manishkumarsingh41)
 ---
 
 ## 📫 Connect
