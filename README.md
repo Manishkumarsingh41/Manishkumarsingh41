@@ -68,6 +68,25 @@ Chat with your files on WhatsApp using AI (RAG + memory + cloud storage)
 - Experience with **end-to-end product development (AI + backend)**  
 
 ---
+## 🧠 LeetCode Milestones
+
+**350+ problems solved · 50-Day & 100-Day streaks achieved**
+
+<p align="center">
+  <a href="https://leetcode.com/u/Manishkumarsingh41/">
+    <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/50%20days.gif" height="120" alt="50 Day Streak"/>
+  </a>
+  <a href="https://leetcode.com/u/Manishkumarsingh41/">
+    <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/100%20days.gif" height="120" alt="100 Day Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-350%2B-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/50%20Day-Streak-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/100%20Day-Streak-orange?style=for-the-badge"/>
+</p>
+
 
 ## 📊 GitHub Stats
 
