@@ -11,21 +11,30 @@ AI/ML Engineer focused on building **production-ready AI systems using LLMs, RAG
 - Backend-integrated AI/ML systems (APIs, pipelines)  
 - End-to-end deployable AI applications  
 
----
-
 ## 🔥 Featured Projects
-
-### 🧠 BrainWave RAG Assistant  
-AI system for querying documents using semantic retrieval + LLM reasoning  
-**Tech:** LangChain, FAISS, Python  
-🔗 https://github.com/Manishkumarsingh41/brainwave-rag-app  
-
----
 
 ### 🤖 CuraLink — AI Medical Research Assistant  
 LLM-powered system that retrieves, ranks, and summarizes medical research data  
 **Tech:** MERN, HuggingFace, APIs  
-🔗 https://github.com/Manishkumarsingh41/CuraLink-ai-medical-research-assistant  
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-black?style=for-the-badge&logo=vercel)](https://cura-link-gamma.vercel.app/)
+[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/CuraLink-ai-medical-research-assistant)
+
+---
+
+### 💬 Memora AI (WIP)  
+Chat with your files on WhatsApp using AI (RAG + memory + cloud storage)  
+**Tech:** FastAPI, Claude, ChromaDB, Redis  
+
+[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/Memora-ai)
+
+---
+
+### 🧠 BrainWave RAG Assistant  
+AI system for querying documents using semantic retrieval + LLM reasoning  
+**Tech:** LangChain, FAISS, Python  
+
+[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/brainwave-rag-app)
 
 ---
 
@@ -33,24 +42,18 @@ LLM-powered system that retrieves, ranks, and summarizes medical research data
 Deep learning-based medical imaging system  
 Improved model accuracy from **63% → 84%**  
 **Tech:** TensorFlow, CNN, Streamlit  
-🔗 https://github.com/Manishkumarsingh41/LuminaPath-Ai-Retinal-Disease-Detection  
+
+[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/LuminaPath-Ai-Retinal-Disease-Detection)
 
 ---
 
 ### 📊 StockLensAI — Financial Forecasting System  
 AI-based stock analysis platform with sentiment analysis + time-series forecasting  
 **Tech:** FinBERT, Prophet, Python  
-🔗 https://github.com/Manishkumarsingh41/StockLensAi  
+
+[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/StockLensAi)
 
 ---
-
-### 💬 Memora AI (WIP)  
-Chat with your files on WhatsApp using AI (RAG + memory + cloud storage)  
-**Tech:** FastAPI, Claude, ChromaDB, Redis  
-🔗 https://github.com/Manishkumarsingh41/Memora-ai  
-
----
-
 ## 🛠 Tech Stack
 
 - **Languages:** Python, SQL  
