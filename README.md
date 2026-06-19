@@ -1,111 +1,301 @@
-# 👋 Hi, I'm Manish
-
-AI/ML Engineer focused on building **production-ready AI systems using LLMs, RAG pipelines, and scalable backend architectures**.
-
----
-
-## 🚀 What I Build
-
-- Retrieval-Augmented Generation (RAG) systems  
-- LLM-powered AI assistants  
-- Backend-integrated AI/ML systems (APIs, pipelines)  
-- End-to-end deployable AI applications  
-
-## 🔥 Featured Projects
-
-### 🤖 CuraLink — AI Medical Research Assistant  
-LLM-powered system that retrieves, ranks, and summarizes medical research data  
-**Tech:** MERN, HuggingFace, APIs  
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-black?style=for-the-badge&logo=vercel)](https://cura-link-gamma.vercel.app/)
-[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/CuraLink-ai-medical-research-assistant)
-
----
-
-### 💬 Memora AI (WIP)  
-Chat with your files on WhatsApp using AI (RAG + memory + cloud storage)  
-**Tech:** FastAPI, Claude, ChromaDB, Redis  
-
-[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/Memora-ai)
-
----
-
-### 🧠 BrainWave RAG Assistant  
-AI system for querying documents using semantic retrieval + LLM reasoning  
-**Tech:** LangChain, FAISS, Python  
-
-[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/brainwave-rag-app)
-
----
-
-### 👁️ LuminaPath — Retinal Disease Detection  
-Deep learning-based medical imaging system  
-Improved model accuracy from **63% → 84%**  
-**Tech:** TensorFlow, CNN, Streamlit  
-
-[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/LuminaPath-Ai-Retinal-Disease-Detection)
-
----
-
-### 📊 StockLensAI — Financial Forecasting System  
-AI-based stock analysis platform with sentiment analysis + time-series forecasting  
-**Tech:** FinBERT, Prophet, Python  
-
-[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Manishkumarsingh41/StockLensAi)
-
----
-## 🛠 Tech Stack
-
-- **Languages:** Python, SQL  
-- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, NLP  
-- **LLM Stack:** LangChain, FAISS, RAG pipelines  
-- **Backend:** Flask, FastAPI, REST APIs  
-- **Tools:** Git, Docker, AWS, GCP  
-
----
-
-## 📌 What Sets Me Apart
-
-- Build **real-world, deployable AI systems**, not just models  
-- Strong focus on **LLM pipelines + system design**  
-- Experience with **end-to-end product development (AI + backend)**  
-
----
-## 🧠 LeetCode Milestones
-
-**350+ problems solved · 50-Day & 100-Day streaks achieved**
+<h1 align="center">Manish Kumar Singh</h1>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Manishkumarsingh41/">
-    <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/50%20days.gif" height="120" alt="50 Day Streak"/>
-  </a>
-  <a href="https://leetcode.com/u/Manishkumarsingh41/">
-    <img src="https://github.com/Manishkumarsingh41/Extra/raw/main/100%20days.gif" height="120" alt="100 Day Streak"/>
-  </a>
+AI Engineer • LLM Systems Engineer • RAG Architect • Backend AI Developer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-350%2B-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/50%20Day-Streak-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/100%20Day-Streak-orange?style=for-the-badge"/>
+Building production-grade AI systems powered by Large Language Models, Retrieval-Augmented Generation, and scalable backend infrastructure.
 </p>
 
+<p align="center">
+<a href="https://github.com/Manishkumarsingh41">
+<img src="https://komarev.com/ghpvc/?username=Manishkumarsingh41&label=PROFILE+VIEWS&style=for-the-badge"/>
+</a>
 
+<a href="https://leetcode.com/u/Manishkumarsingh41/">
+<img src="https://img.shields.io/badge/LEETCODE-350%2B%20PROBLEMS-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Manishkumarsingh41&show_icons=true)
-![Streak](https://streak-stats.demolab.com?user=Manishkumarsingh41)
----
-
-## 📫 Connect
-
-- 🌐 Portfolio: https://manishkumarsingh41.github.io/myportfolio/  
-- 💼 LinkedIn: https://www.linkedin.com/in/manish-kumar-singh-5a8162214/  
-- 💻 GitHub: https://github.com/Manishkumarsingh41  
-- 🧠 LeetCode: https://leetcode.com/u/Manishkumarsingh41/  
-- 📊 Kaggle: https://www.kaggle.com/manish5323  
+<img src="https://img.shields.io/badge/FOCUS-GENAI%20%7C%20RAG%20%7C%20LLMS-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-⭐ Building scalable AI systems. Open to opportunities in AI/ML Engineering.
+# ⚡ About Me
+
+I am an AI Engineer focused on designing and deploying intelligent systems that solve real-world problems.
+
+My work sits at the intersection of:
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Backend Engineering
+- Production AI Infrastructure
+- Applied Machine Learning
+
+I enjoy building systems that move beyond demos and can be deployed, scaled, and used by real users.
+
+---
+
+# 🚀 Current Focus
+
+```yaml
+Building:
+  - Production RAG Systems
+  - AI Research Assistants
+  - Agentic AI Workflows
+  - Multi-Model LLM Applications
+
+Learning:
+  - MCP Architecture
+  - Distributed AI Systems
+  - AI Infrastructure
+  - Advanced System Design
+
+Goal:
+  - Build AI products used by millions
+```
+
+---
+
+# 🧠 Flagship Projects
+
+## 🤖 CuraLink — AI Medical Research Assistant
+
+Production-ready medical research platform that retrieves, ranks, and summarizes scientific literature using LLMs.
+
+### Key Features
+
+✓ Intelligent Research Retrieval
+
+✓ Medical Knowledge Search
+
+✓ AI-Powered Summarization
+
+✓ Research Workflow Optimization
+
+### Tech Stack
+
+```txt
+MERN • HuggingFace • LLMs • APIs
+```
+
+<p>
+<a href="https://cura-link-gamma.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Manishkumarsingh41/CuraLink-ai-medical-research-assistant">
+<img src="https://img.shields.io/badge/SOURCE-CODE-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 💬 Memora AI
+
+AI Memory Layer for WhatsApp.
+
+Chat with documents, maintain long-term memory, and access knowledge through conversational interfaces.
+
+### Tech Stack
+
+```txt
+FastAPI • Claude • ChromaDB • Redis
+```
+
+<p>
+<a href="https://github.com/Manishkumarsingh41/Memora-ai">
+<img src="https://img.shields.io/badge/SOURCE-CODE-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 🧠 BrainWave RAG Assistant
+
+Semantic document intelligence system powered by retrieval and LLM reasoning.
+
+### Tech Stack
+
+```txt
+LangChain • FAISS • Python • RAG
+```
+
+<p>
+<a href="https://github.com/Manishkumarsingh41/brainwave-rag-app">
+<img src="https://img.shields.io/badge/SOURCE-CODE-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 👁 LuminaPath
+
+AI-powered retinal disease detection platform.
+
+### Impact
+
+```txt
+Model Accuracy Improved
+
+63%  →  84%
+```
+
+### Tech Stack
+
+```txt
+TensorFlow • CNN • Streamlit
+```
+
+<p>
+<a href="https://github.com/Manishkumarsingh41/LuminaPath-Ai-Retinal-Disease-Detection">
+<img src="https://img.shields.io/badge/SOURCE-CODE-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 📈 StockLensAI
+
+Financial intelligence platform combining market sentiment and forecasting.
+
+### Tech Stack
+
+```txt
+FinBERT • Prophet • NLP • Python
+```
+
+<p>
+<a href="https://github.com/Manishkumarsingh41/StockLensAi">
+<img src="https://img.shields.io/badge/SOURCE-CODE-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+# 🛠 Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github"/>
+</p>
+
+### AI Engineering
+
+```txt
+LangChain
+FAISS
+Vector Databases
+RAG Pipelines
+Prompt Engineering
+LLM Applications
+Semantic Search
+AI Agents
+```
+
+---
+
+# 🏆 Achievements
+
+🥇 350+ LeetCode Problems Solved
+
+🔥 50-Day LeetCode Streak
+
+🔥 100-Day LeetCode Streak
+
+🚀 Built Multiple End-to-End AI Applications
+
+🧠 Specialized in LLM Systems & Retrieval Engineering
+
+📚 AI & Data Science Graduate
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manishkumarsingh41&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manishkumarsingh41&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishkumarsingh41&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧩 Engineering Philosophy
+
+> Great AI products are not built by models alone.
+
+The real challenge lies in designing reliable systems around those models:
+
+- Retrieval
+- Memory
+- Infrastructure
+- Scalability
+- User Experience
+
+That is where I focus my engineering efforts.
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://manishkumarsingh41.github.io/myportfolio/">
+Portfolio
+</a>
+•
+<a href="https://www.linkedin.com/in/manish-kumar-singh-5a8162214/">
+LinkedIn
+</a>
+•
+<a href="https://github.com/Manishkumarsingh41">
+GitHub
+</a>
+•
+<a href="https://leetcode.com/u/Manishkumarsingh41/">
+LeetCode
+</a>
+•
+<a href="https://www.kaggle.com/manish5323">
+Kaggle
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+Building AI systems that people actually use.
+
+</p>
